@@ -1,0 +1,4 @@
+Shutdown Helper Logs
+----------------------------------------------
+1/13/2014 7:13 AM : Trigger On (Listrik Mati)
+1/13/2014 7:13 AM : Trigger Off (Listrik Idup)

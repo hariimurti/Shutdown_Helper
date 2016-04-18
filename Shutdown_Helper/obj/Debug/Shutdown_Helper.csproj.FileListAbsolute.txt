@@ -1,0 +1,11 @@
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\bin\Debug\Shutdown_Helper.exe
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\bin\Debug\Shutdown_Helper.pdb
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.csprojResolveAssemblyReference.cache
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.FormAbout.resources
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.FormMonitor.resources
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.FormSetting.resources
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.FormShutdown.resources
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.Properties.Resources.resources
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.csproj.GenerateResource.Cache
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.exe
+D:\My Projects\SharpDevelop\Shutdown_Helper\Shutdown_Helper\obj\Debug\Shutdown_Helper.pdb
